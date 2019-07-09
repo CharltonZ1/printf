@@ -5,5 +5,5 @@ Are you tired of using alternatively ft_putstr and ft_putnbr for your displays? 
 | :---: | :---: |
 | Parsing | Rigor |
 | Variadic Functions | Algorithms & AI |
-| UNIX |
-| Imperative Programming |
+|| UNIX |
+|| Imperative Programming |
